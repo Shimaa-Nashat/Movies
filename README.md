@@ -1,4 +1,4 @@
-# 🎬 Favorite Disney Movies
+# 🎬 Movies
 
 🚀 [Click Here to View the Project](https://shimaa-nashat.github.io/Movies/)
 
